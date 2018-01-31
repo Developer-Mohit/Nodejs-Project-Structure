@@ -7,5 +7,5 @@ Basic setup to start nodejs project.
  
  In command prompt:
 
-1. cd  <your download project location>
+1. cd  '<your download project location>'
 2. npm install
