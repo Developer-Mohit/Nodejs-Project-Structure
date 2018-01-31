@@ -3,7 +3,7 @@ Basic setup to start nodejs project.
 
 ### Get started
  
- Download the project.
+##Download the above project.
  
  In command prompt:
 
