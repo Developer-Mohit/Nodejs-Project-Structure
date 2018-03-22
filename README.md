@@ -9,3 +9,4 @@ Basic setup to start nodejs project.
 
 1. cd    *your download project location*
 2. npm install
+3. npm start
